@@ -15,7 +15,7 @@ echo "First fruit: ${fruits[0]}"
 echo "Second vegetable: ${vegetables[1]}"
 
 #Length of an array
-echo "Number of fruits and vegetables: ${#fruits[@]} and ${vegetables[[@]]}"
+echo "Number of fruits and vegetables: ${#fruits[@]} and ${#vegetables[@]}"
 
 #Iterating over an array
 echo "Fruits:"
