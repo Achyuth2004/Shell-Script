@@ -12,6 +12,10 @@ git add <file-name>
 ```
 git commit -m "why-you-commited"
 ```
+* To check the user email and the name
+git config --global user.name
+git config --global user.email
+```
 * Push the changes to GitHub/Central repo
 ```
 git push -u origin main
